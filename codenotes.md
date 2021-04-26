@@ -1,0 +1,3 @@
+# Code Notes
+
+## Overall Organization
